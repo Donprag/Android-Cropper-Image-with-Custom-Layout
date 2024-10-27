@@ -5,7 +5,7 @@ A simple image cropper project where you can customize your own image cropper, f
 ## Usage
 
 - Can be used with your own custom layout.
-- Load image from any source (e.g. url, uri, glideUrl, bitmap, res drawable).
+- Load image from any sources (e.g. url, uri, glideUrl, bitmap, res drawable).
 - Allows scaling the cropper with either a fixed 1:1 ratio or a free-form ratio.
 - Returns the result from the image cropper as a bitmap (or you can modify it as desired).
 
