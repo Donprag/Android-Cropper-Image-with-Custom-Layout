@@ -24,6 +24,7 @@ A simple image cropper project where you can customize your own image cropper, f
 
 
 
-### Support Me
+
+#### Support Me
 
 If you enjoy my work and would like to support me, consider buying me a coffee on [Trakteer](https://teer.id/don_prag).
