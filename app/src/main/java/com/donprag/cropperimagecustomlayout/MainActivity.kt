@@ -17,5 +17,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, CropWithRatioActivity::class.java)
             startActivity(intent)
         }
+
+        bind.btnCropWithoutRatio.setOnClickListener {
+            val intent = Intent(this@MainActivity, CropWithoutRatioActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
