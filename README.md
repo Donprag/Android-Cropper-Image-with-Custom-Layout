@@ -21,10 +21,3 @@ A simple image cropper project where you can customize your own image cropper, f
 ### Notes:
 - Currently, you can only scale by dragging the corners (top, bottom, left, right) of the cropper.
 - This is not a library, just a sample project that you can modify to suit your needs.
-
-
-
-
-#### Support Me
-
-If you enjoy my work and would like to support me, consider buying me a coffee on [Trakteer](https://teer.id/don_prag).
